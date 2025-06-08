@@ -1,6 +1,3 @@
-[submodule "free5gc-debian-packages"]
-	path = free5gc-debian-packages
-	url = https://github.com/jerry73204/free5gc-debian-packages.git
-[submodule "USRANSIM-debian-packages"]
-	path = USRANSIM-debian-packages
-	url = https://github.com/jerry73204/USRANSIM-debian-packages.git
+[submodule "free5gc-compose"]
+	path = free5gc-compose
+	url = https://github.com/free5gc/free5gc-compose.git
